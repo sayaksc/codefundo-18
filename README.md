@@ -9,8 +9,12 @@ We plan to locate the epicentre of an earthquake precisely by taking input from 
 * Sends instant emails to every subscribes user and emails SMS and emails to people residing (GPS Location) in that area
 * Finds nearest hositals and health centres for rescues and detects open areas to gather from GPS near the affected region
 
+## Real Time Values
+* Values taken from IRIS Data Services
+
 ## Getting Started
-* User needs to register himself/herself with the webapp
+* User needs to register himself/herself with the webapp ( http://ds.iris.edu/ds/ )
+* 
 
 ## Technologies Used
 * Django to build webapp
