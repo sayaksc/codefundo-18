@@ -4,7 +4,8 @@ We plan to locate the epicentre of an earthquake precisely by taking input from 
 
 ## Working
 * The site takes input from seismic stations
-* Finds the distace of origin of the earthquake
+* Finds the distace of origin of the earthquake by taking the distance from each seismic station by studying the lag between primary and secondary waves
+* Atleast 3 seismic stations required to precisely determine the epicentre of the earthquake
 * Sends instant emails to every subscribes user and emails SMS and emails to people residing (GPS Location) in that area
 * Finds nearest hositals and health centres for rescues and detects open areas to gather from GPS near the affected region
 
