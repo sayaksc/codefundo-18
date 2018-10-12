@@ -14,7 +14,7 @@ We plan to locate the epicentre of an earthquake precisely by taking input from 
 
 ## Getting Started
 * User needs to register himself/herself with the webapp ( http://ds.iris.edu/ds/ )
-* 
+* User needs to enable location detection
 
 ## Technologies Used
 * Django to build webapp
