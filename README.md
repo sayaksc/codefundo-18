@@ -10,10 +10,10 @@ We plan to locate the epicentre of an earthquake precisely by taking input from 
 * Finds nearest hositals and health centres for rescues and detects open areas to gather from GPS near the affected region
 
 ## Real Time Values
-* Values taken from IRIS Data Services
+* Values taken from IRIS Data Services ( http://ds.iris.edu/ds/ )
 
 ## Getting Started
-* User needs to register himself/herself with the webapp ( http://ds.iris.edu/ds/ )
+* User needs to register himself/herself with the webapp 
 * User needs to enable location detection
 
 ## Technologies Used
